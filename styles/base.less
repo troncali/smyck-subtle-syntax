@@ -38,7 +38,7 @@ atom-text-editor {
   }
 
   .fold-marker:after {
-    color: @dark-cyan;
+    color: @red;
   }
 
   .invisible {
@@ -219,7 +219,8 @@ atom-text-editor {
     }
   }
 
-  &.syntax--separator.syntax--key-value {
+  &.syntax--separator.syntax--key-value,
+  &.syntax--separator.syntax--array {
       color: @white;
   }
 
