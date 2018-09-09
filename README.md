@@ -12,27 +12,23 @@ apm install smyck-subtle
 ## Screenshots
 
 ### JavaScript
-![JavaScript](https://raw.githubusercontent.com/troncali/smyck-subtle-syntax/master/shots/js.jpeg)
-
 Source: https://github.com/adonisjs/adonis-fullstack-app/blob/develop/app/Models/User.js.
+![JavaScript](https://raw.githubusercontent.com/troncali/smyck-subtle-syntax/master/shots/js.jpeg)
 
 ### JSON
 ![JSON](https://raw.githubusercontent.com/troncali/smyck-subtle-syntax/master/shots/json.jpeg)
 
 ### Python
+Source: http://github.com/nvbn/thefuck/blob/master/setup.py
 ![Python](https://raw.githubusercontent.com/troncali/smyck-subtle-syntax/master/shots/py.jpeg)
 
-Source: http://github.com/nvbn/thefuck/blob/master/setup.py
-
 ### Ruby
-![Python](https://raw.githubusercontent.com/troncali/smyck-subtle-syntax/master/shots/ruby.jpeg)
-
 Source: https://github.com/rails/rails/blob/master/version.rb
+![Python](https://raw.githubusercontent.com/troncali/smyck-subtle-syntax/master/shots/rb.jpeg)
 
 ### PHP
-![PHP](https://raw.githubusercontent.com/troncali/smyck-subtle-syntax/master/shots/php.jpeg)
-
 Source: Laravel.
+![PHP](https://raw.githubusercontent.com/troncali/smyck-subtle-syntax/master/shots/php.jpeg)
 
 ### HTML
 ![HTML](https://raw.githubusercontent.com/troncali/smyck-subtle-syntax/master/shots/html.jpeg)
