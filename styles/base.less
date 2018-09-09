@@ -60,10 +60,10 @@ atom-text-editor {
 .syntax--comment {
   color: @black;
 
-  &.syntax--markup.syntax--link {
+  .syntax--markup.syntax--link {
     font-style: italic;
     text-decoration: underline;
-    color: @red;
+    color: @dark-white;
   }
 }
 
@@ -361,6 +361,12 @@ atom-text-editor {
 
   &.syntax--raw.syntax--inline {
     color: @green;
+  }
+
+  &.syntax--link {
+    font-style: italic;
+    text-decoration: underline;
+    color: @red;
   }
 }
 
