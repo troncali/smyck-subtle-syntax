@@ -15,7 +15,7 @@ apm install smyck-subtle
 ![JavaScript]()
 
 ### JSON
-![JSON](https://github.com/troncli/smyck-subtle-syntax/shots/json.jpeg)
+![JSON](https://raw.githubusercontent.com/troncali/smyck-subtle-syntax/master/shots/json.jpeg)
 
 
 ### PHP
