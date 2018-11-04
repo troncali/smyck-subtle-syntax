@@ -6,7 +6,7 @@ The intent is to more closely match SMYCK's Terminal, Vim, and TextMate syntax t
 
 ## Installation
 ```bash
-apm install smyck-subtle
+apm install smyck-subtle-syntax
 ```
 
 ## Screenshots

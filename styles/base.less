@@ -198,16 +198,14 @@ atom-text-editor {
 
     &.syntax--heading,
     &.syntax--identity {
-      color: red; //@blue
+      color: @red;
     }
 
     &.syntax--bold {
-      color: red; //@yellow
       font-weight: bold;
     }
 
     &.syntax--italic {
-      color: red; //@yellow
       font-style: italic;
     }
 
@@ -269,7 +267,7 @@ atom-text-editor {
   }
 
   &.syntax--name.syntax--section {
-    color: red; // @blue
+    color: @red;
   }
 
   &.syntax--name.syntax--tag {
@@ -304,20 +302,22 @@ atom-text-editor {
   }
 
   &.syntax--link {
-    color: red; // @yellow
+    font-style: italic;
+    text-decoration: underline;
+    color: @red;
   }
 
   &.syntax--require {
-    color: red; // @yellow
+    color: @blue;
   }
 
   &.syntax--selector {
-    color: red; // @magenta
+    color: @yellow;
   }
 
   &.syntax--separator {
     background-color: @black;
-    color: red; // @syntax-text-color
+    color: @syntax-text-color;
   }
 }
 
