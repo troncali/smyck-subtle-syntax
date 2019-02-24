@@ -146,8 +146,12 @@ atom-text-editor {
   }
 
   // &.syntax--other.syntax--object {
-  //   color: @magenta;
+  //    color: @dark-yellow;
   // }
+
+  &.syntax--other.syntax--object.syntax--property.syntax--unquoted {
+      color: @yellow;
+  }
 }
 
 .syntax--invalid.syntax--illegal {
@@ -225,12 +229,11 @@ atom-text-editor {
   &.syntax--section.syntax--embedded {
     color: @red;
   }
-
 }
 
 .syntax--support {
-  &.syntax--class {
-    color: @dark-blue;
+  &.syntax--class, &.syntax--dom {
+    color: @dark-cyan;
   }
 
   &.syntax--function  {
@@ -298,7 +301,7 @@ atom-text-editor {
   }
 
   &.syntax--class {
-    color: @white;
+    color: @cyan;
   }
 
   &.syntax--link {
@@ -378,8 +381,12 @@ atom-text-editor {
   }
 }
 
-.syntax--source.syntax--js.syntax--embedded {
+.syntax--source.syntax--embedded {
     color: @white;
+}
+
+.syntax--formal-parameter.syntax--identifier {
+    color: @magenta;
 }
 
 
