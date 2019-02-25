@@ -1,7 +1,7 @@
 {
   "name": "smyck-subtle-syntax",
   "theme": "syntax",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Subtle Atom syntax theme using the SMYCK color scheme - http://color.smyck.org.",
   "keywords": [
     "smyck",
