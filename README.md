@@ -9,9 +9,9 @@ The intent is to more closely match SMYCK's Terminal, Vim, and TextMate syntax t
 apm install smyck-subtle-syntax
 ```
 
-### Syntax Theme
+### UI Theme
 
-Optional syntax theme available: [smyck-ui](https://atom.io/themes/smyck-ui).
+Optional UI theme available: [smyck-ui](https://atom.io/themes/smyck-ui).
 
 ```bash
 apm install smyck-ui
