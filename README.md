@@ -4,6 +4,9 @@ Subtle [Atom](https://atom.io) syntax theme using the [SMYCK color scheme](http:
 
 The intent is to more closely match SMYCK's Terminal, Vim, and TextMate syntax themes, with some refinements.
 
+#### v1.2.1 Update
+* Moved popover styles (like autocomplete) to smyck-ui.
+
 ## Installation
 ```bash
 apm install smyck-subtle-syntax
